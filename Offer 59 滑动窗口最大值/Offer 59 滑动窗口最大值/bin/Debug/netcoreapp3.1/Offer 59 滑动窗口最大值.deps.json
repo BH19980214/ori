@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Offer 59 滑动窗口最大值/1.0.0": {
+        "runtime": {
+          "Offer 59 滑动窗口最大值.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Offer 59 滑动窗口最大值/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
